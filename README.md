@@ -10,8 +10,8 @@
     <th colspan=3>Used Languages and Frameworks</th>
   </tr>
   <tr>
-    <th>Python</th>
-    <th colspan=2>.NET</th>
+    <th><img src="python_logo.png" width=64 height=64></th>
+    <th colspan=2><img src="dotnet_logo.png" width=64 height=64></th>
   </tr>
   <tr>
     <td>Numpy, Pandas, Matplotlib, Seaborn</td>
