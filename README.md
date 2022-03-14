@@ -7,7 +7,7 @@
 
  <table>
   <tr>
-    <th colspan=4>Used Languages and Frameworks</th>
+    <th colspan=4>Most used Languages and Frameworks</th>
   </tr>
   <tr>
     <th></th>
