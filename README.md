@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Giuseppe a PhD student at the <a href="pni-lab.github.io/">PNI Lab</a>
+### Hi there 👋 I'm Giuseppe a PhD student at the <a href="https://pni-lab.github.io/">PNI Lab</a>
 
 - 🔭 I’m currently working on Artificial Intelligence for Brain Imaging data
 - 🌱 I’m currently learning Machine Learning and Software Development
