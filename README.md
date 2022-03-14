@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there 👋 I'm Giuseppe a PhD student at PNI LAB (https://pni-lab.github.io/) 
 
-<!--
-**gallg/gallg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Artificial Intelligence for Brain Imaging data
+- 🌱 I’m currently learning Machine Learning and Software Development
+- 👯 I’m looking to collaborate on Open Science / Open Data
+- 📫 How to reach me: <a href="https://twitter.com/g_gallitto">Twitter</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <table>
+  <tr>
+    <th colspan=3>Used Languages and Frameworks</th>
+  </tr>
+  <tr>
+    <th>Python</th>
+    <th colspan=2>.NET</th>
+  </tr>
+  <tr>
+    <td>Numpy, Pandas, Matplotlib, Seaborn</td>
+    <td>C#</td>
+    <td>F#</td>
+  </tr>
+  <tr>
+    <td>Sci-Kit Learn, Pytorch, Skorch</td>
+    <td>SciSharp Stack</td>
+    <td>FSLab</td>
+  </tr>
+  <tr>
+    <td>Dask, PySpark</td>
+    <td colspan=2>ML.NET, Apache Spark for .NET</td>
+  </tr>
+</table> 
