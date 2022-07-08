@@ -30,13 +30,13 @@
   </tr>
   <tr>
     <th>Machine Learning</th>
-    <td colspan=3><a href="https://scikit-learn.org/stable/index.html">Sci-Kit Learn</a>, 
+    <td><a href="https://scikit-learn.org/stable/index.html">Sci-Kit Learn</a>, 
      <a href="https://pytorch.org/">Pytorch</a>, 
      <a href="https://skorch.readthedocs.io/en/stable/">Skorch</a>
   </tr>
   <tr>
     <th>Big Data</th>
-    <td colspan=3><a href="https://dask.org/">Dask</a>, 
+    <td><a href="https://dask.org/">Dask</a>, 
      <a href="https://spark.apache.org/docs/latest/api/python/index.html">pySpark</a></td>
   </tr>
 </table> 
