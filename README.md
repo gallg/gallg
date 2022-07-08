@@ -8,7 +8,7 @@
      - 👯 I’m looking to collaborate on Open Science / Open Data <br>
      - 📫 How to reach me: <a href="https://twitter.com/g_gallitto">Twitter</a><br>
     </td>
-    <td><th><img src="logo_long_transparent_small.png" width=420 height=256></td>
+    <td><img src="logo_long_transparent_small.png" width=420 height=256></td>
  </tr>
 </table>
 
