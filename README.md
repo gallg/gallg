@@ -12,7 +12,7 @@
  </tr>
 </table>
 
-<table style="width:700px">
+<table>
   <tr>
     <th colspan=4>Most used Languages, Tools and Frameworks</th>
   </tr>
