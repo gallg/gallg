@@ -12,7 +12,7 @@
   <tr>
     <th></th>
     <th><img src="python_logo.png" width=64 height=64></th>
-    <th colspan=2><img src="dotnet_logo.png" width=64 height=64></th>
+    <th colspan=2><img src="principal.png" width=64 height=64></th>
   </tr>
   <tr>
    <th>Programming Languages</th>
