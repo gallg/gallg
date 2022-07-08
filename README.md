@@ -24,7 +24,7 @@
   </tr>
   <tr>
    <th>Programming Languages</th>
-    <td align=center width="250"><a href="https://www.python.org/">Python</a></td>
+    <td align=center width="260"><a href="https://www.python.org/">Python</a></td>
     <td align=center><a href="https://dotnet.microsoft.com/en-us/languages/csharp">C#</a></td>
     <td align=center><a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170">C++</a></td>
   </tr>
