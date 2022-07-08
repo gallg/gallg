@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <th colspan=4>Most used Languages and Frameworks</th>
+    <th colspan=4>Most used Languages, Tools and Frameworks</th>
   </tr>
   <tr>
     <th></th>
