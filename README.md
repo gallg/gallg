@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Giuseppe a PhD student at the <a href="https://pni-lab.github.io/">PNI Lab</a>
+### Hi there 👋 I'm Giuseppe a PhD student @ <a href="https://pni-lab.github.io/">PNI Lab</a>
 
 <table>
  <tr>
