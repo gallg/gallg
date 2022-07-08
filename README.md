@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Giuseppe a PhD student at the <a href="https://pni-lab.github.io/">PNI Lab</a>
 
-<table boarder=0>
+<table boarder=0 bgcolor="#000000">
  <tr>
     <td colspan=2> 
      - 🔭 I’m currently working on Artificial Intelligence for Brain Imaging data <br>
