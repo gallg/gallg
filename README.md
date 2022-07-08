@@ -33,7 +33,7 @@
      <a href="https://pandas.pydata.org/">Pandas</a>, 
      <a href="https://matplotlib.org/">Matplotlib</a>, 
      <a href="https://seaborn.pydata.org/">Seaborn</a>
-   <td align=center colspan=2 rowspan=3>Custom Code, <br> Python Extensions</td>
+    <td align=center colspan=2 rowspan=3>Custom Code, <br> <a href="https://docs.microsoft.com/en-us/visualstudio/python/working-with-c-cpp-python-in-visual-studio?view=vs-2022">Python Extensions</a></td>
   </tr>
   <tr>
     <th>Machine Learning</th>
