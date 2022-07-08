@@ -2,10 +2,11 @@
 
 <table>
  <tr>
-    <td> - 🔭 I’m currently working on Artificial Intelligence for Brain Imaging data <br>
-         - 🌱 I’m currently learning Machine Learning and Software Development <br>
-         - 👯 I’m looking to collaborate on Open Science / Open Data <br>
-         - 📫 How to reach me: <a href="https://twitter.com/g_gallitto">Twitter</a><br>
+    <td colspan=2> 
+     - 🔭 I’m currently working on Artificial Intelligence for Brain Imaging data <br>
+     - 🌱 I’m currently learning Machine Learning and Software Development <br>
+     - 👯 I’m looking to collaborate on Open Science / Open Data <br>
+     - 📫 How to reach me: <a href="https://twitter.com/g_gallitto">Twitter</a><br>
     </td>
     <td><th><img src="logo_long_transparent_small.png" width=420 height=256></td>
  </tr>
