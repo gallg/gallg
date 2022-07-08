@@ -26,7 +26,7 @@
      <a href="https://pandas.pydata.org/">Pandas</a>, 
      <a href="https://matplotlib.org/">Matplotlib</a>, 
      <a href="https://seaborn.pydata.org/">Seaborn</a>
-   <td align=center colspan=2>Custom Code, Extend Python</td>
+   <td align=center colspan=2 rowspan=3>Custom Code, Extend Python</td>
   </tr>
   <tr>
     <th>Machine Learning</th>
