@@ -1,13 +1,15 @@
 ### Hi there 👋 I'm Giuseppe a PhD student at the <a href="https://pni-lab.github.io/">PNI Lab</a>
 
 <table>
-  <tr>
+ <tr>
+    <td>
   - 🔭 I’m currently working on Artificial Intelligence for Brain Imaging data
   - 🌱 I’m currently learning Machine Learning and Software Development
   - 👯 I’m looking to collaborate on Open Science / Open Data
   - 📫 How to reach me: <a href="https://twitter.com/g_gallitto">Twitter</a>
+    </td>
+    <td><th><img src="logo_long_transparent_small.png" width=256 height=152></td>
  </tr>
- <td><th><img src="logo_long_transparent_small.png" width=256 height=152></td>
 </table>
 
 <table>
