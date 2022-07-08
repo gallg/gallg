@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <th>Data Processing / Visualization</th>
-    <td><a href="https://numpy.org/">Numpy</a>, 
+    <td colspan=2><a href="https://numpy.org/">Numpy</a>, 
      <a href="https://pandas.pydata.org/">Pandas</a>, 
      <a href="https://matplotlib.org/">Matplotlib</a>, 
      <a href="https://seaborn.pydata.org/">Seaborn</a>
