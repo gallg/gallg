@@ -15,17 +15,18 @@
 <table>
   
   <tr>
-    <th colspan=4>Most used Languages, Tools and Frameworks</th>
+    <th colspan=5>Most used Languages, Tools and Frameworks</th>
   </tr>
   <tr>
     <th></th>
     <th><img src="python_logo.png" width=64 height=64></th>
-    <th colspan=2><img src="vs.jpeg" width=78 height=78></th>
+    <th colspan=3><img src="vs.jpeg" width=78 height=78></th>
   </tr>
   <tr>
    <th>Programming Languages</th>
     <td align=center width="260"><a href="https://www.python.org/">Python</a></td>
     <td align=center><a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170">C++</a></td>
+    <td align=center><a href="https://dotnet.microsoft.com/en-us/languages/csharp">C#</a></td>
     <td align=center><a href="https://tiswww.case.edu/php/chet/bash/bashtop.html">Bash</a></td>
   </tr>
   <tr>
@@ -34,7 +35,7 @@
      <a href="https://pandas.pydata.org/">Pandas</a>, 
      <a href="https://matplotlib.org/">Matplotlib</a>, 
      <a href="https://seaborn.pydata.org/">Seaborn</a>
-    <td align=center colspan=2 rowspan=3>Custom Code, <br> <a href="https://docs.microsoft.com/en-us/visualstudio/python/working-with-c-cpp-python-in-visual-studio?view=vs-2022">Python Extensions</a></td>
+    <td align=center colspan=3 rowspan=3>Custom Code, <br> <a href="https://docs.microsoft.com/en-us/visualstudio/python/working-with-c-cpp-python-in-visual-studio?view=vs-2022">Python Extensions</a></td>
   </tr>
   <tr>
     <th>Machine Learning</th>
