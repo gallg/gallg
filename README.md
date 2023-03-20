@@ -40,8 +40,8 @@
   <tr>
     <th>Machine Learning</th>
     <td><a href="https://scikit-learn.org/stable/index.html">Sci-Kit Learn</a>, 
-     <a href="https://pytorch.org/">Pytorch</a>, 
-     <a href="https://skorch.readthedocs.io/en/stable/">Skorch</a>
+     <a href="https://www.tensorflow.org/">Tensorflow</a>, 
+     <a href="keras.io">Keras</a>
   </tr>
   <tr>
     <th>Big Data</th>
