@@ -45,7 +45,6 @@
   </tr>
   <tr>
     <th>Big Data</th>
-    <td><a href="https://dask.org/">Dask</a>,
-     <a href="https://en.wikipedia.org/wiki/Program_optimization">High Performance Programming</a>
+    <td><a href="https://dask.org/">Dask</a>
   </tr>
 </table> 
