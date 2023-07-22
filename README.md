@@ -39,7 +39,7 @@
   </tr>
   <tr>
     <th>Machine Learning</th>
-    <td><a href="https://scikit-learn.org/stable/index.html">Sci-Kit Learn</a>,
+    <td><a href="https://scikit-learn.org/stable/index.html">SKLearn</a>,
      <a href="https://pytorch.org/">Pytorch</a>,
      <a href="https://www.tensorflow.org/">Tensorflow</a>, 
      <a href="https://keras.io/">Keras</a>
