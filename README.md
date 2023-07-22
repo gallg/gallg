@@ -25,7 +25,7 @@
   <tr>
    <th>Programming Languages</th>
     <td align=center width="260"><a href="https://www.python.org/">Python</a></td>
-    <td align=center><a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170">C++</a></td>
+    <td align=center><a href="https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-in-visual-studio?view=msvc-170">C/C++</a></td>
     <td align=center><a href="https://dotnet.microsoft.com/en-us/languages/csharp">C#</a></td>
     <td align=center><a href="https://tiswww.case.edu/php/chet/bash/bashtop.html">Bash</a></td>
   </tr>
@@ -39,7 +39,8 @@
   </tr>
   <tr>
     <th>Machine Learning</th>
-    <td><a href="https://scikit-learn.org/stable/index.html">Sci-Kit Learn</a>, 
+    <td><a href="https://scikit-learn.org/stable/index.html">Sci-Kit Learn</a>,
+     <a href="https://pytorch.org/">Pytorch</a>,
      <a href="https://www.tensorflow.org/">Tensorflow</a>, 
      <a href="https://keras.io/">Keras</a>
   </tr>
