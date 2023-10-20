@@ -20,13 +20,13 @@
   <tr>
     <th></th>
     <th><img src="python_logo.png" width=64 height=64></th>
-    <th colspan=3><img src="vs.jpeg" width=78 height=78></th>
+    <th colspan=3><img src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" width=78 height=78></th>
   </tr>
   <tr>
    <th>Programming Languages</th>
     <td align=center width="260"><a href="https://www.python.org/">Python</a></td>
     <td align=center><a href="https://learn.microsoft.com/en-us/cpp/overview/visual-cpp-in-visual-studio?view=msvc-170">C/C++</a></td>
-    <td align=center><a href="https://dotnet.microsoft.com/en-us/languages/csharp">C#</a></td>
+    <td align=center><a href="https://www.rust-lang.org/">Rust</a></td>
     <td align=center><a href="https://tiswww.case.edu/php/chet/bash/bashtop.html">Bash</a></td>
   </tr>
   <tr>
