@@ -6,9 +6,9 @@
      - 🔭 I’m currently working on Artificial Intelligence for Brain Imaging data <br>
      - 🌱 I’m currently learning Machine Learning and Software Development <br>
      - 👯 I’m looking to collaborate on Open Science / Open Data <br>
-     - 📫 How to reach me: <a href="https://twitter.com/g_gallitto">Twitter</a>,
-     <a href="https://techhub.social/@gallg">Mastodon</a>,
-     <a href="https://bsky.app/profile/ggallitto.bsky.social">Bluesky</a>
+     - 📫 How to reach me: <a href="https://techhub.social/@gallg">Mastodon</a>,
+     <a href="https://bsky.app/profile/ggallitto.bsky.social">Bluesky</a>,
+     <a href="https://twitter.com/g_gallitto">X</a>
      <br>
     </td>
     <td><img src="logo_long_transparent_small.png" width=320 height=100></td>
