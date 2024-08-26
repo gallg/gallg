@@ -23,7 +23,7 @@
   <tr>
     <th></th>
     <th><img src="python_logo.png" width=64 height=64></th>
-    <th colspan=3><img src="https://static-00.iconduck.com/assets.00/file-type-vscode-icon-512x508-376y62ux.png" width=78 height=78></th>
+    <th colspan=3><img src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" width=78 height=78></th>
   </tr>
   <tr>
    <th>Programming Languages</th>
