@@ -11,7 +11,7 @@
      <a href="https://twitter.com/g_gallitto">X</a>
      <br>
     </td>
-    <td><img src="https://pni-lab.github.io/build/animated_logo-a792b7641ccd8a22efc9a9209410c02c.gif" width=320 height=100></td>
+    <td><img src="https://pni-lab.github.io/build/animated_logo-88475edfabc7193dfbce51b382268f77.gif" width=320 height=100></td>
  </tr>
 </table>
 
