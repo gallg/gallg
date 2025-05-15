@@ -7,11 +7,10 @@
      - 🌱 I’m always learning about Machine Learning and Software Development <br>
      - 👯 I’m looking to collaborate on Open Science / Open Data <br>
      - 📫 How to reach me: <a href="https://techhub.social/@gallg">Mastodon</a>,
-     <a href="https://bsky.app/profile/ggallitto.bsky.social">Bluesky</a>,
-     <a href="https://twitter.com/g_gallitto">X</a>
+     <a href="https://bsky.app/profile/ggallitto.bsky.social">Bluesky</a>
      <br>
     </td>
-    <td><img src="https://pni-lab.github.io/build/animated_logo-88475edfabc7193dfbce51b382268f77.gif" width=320 height=100></td>
+    <td><img src="https://pni-lab.github.io/build/animated_logo-7814681c7d87309588163a75073f983d.webp" width=320 height=100></td>
  </tr>
 </table>
 
