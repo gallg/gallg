@@ -9,6 +9,6 @@
      - 📫 How to reach me: see the bio! 
      <br>
     </td>
-    <td><img src="https://pni-lab.github.io/build/logo_text_blue-4b9c26eb0c8daa691b26b78191f58287.png" width=320 height=100></td>
+    <td><img src="pni.png" width=320 height=100></td>
  </tr>
 </table>
