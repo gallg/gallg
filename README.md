@@ -3,7 +3,7 @@
 <table>
  <tr>
     <td colspan=2> 
-     - 🔭 I’m currently working on Artificial Intelligence for Brain Imaging data <br>
+     - 🔭 I’m currently working on AI-driven Brain Imaging<br>
      - 🌱 I’m always learning about Machine Learning and Software Development <br>
      - 👯 I’m looking to collaborate on Open Science / Open Source Software <br>
      - 📫 How to reach me: see the bio! 
